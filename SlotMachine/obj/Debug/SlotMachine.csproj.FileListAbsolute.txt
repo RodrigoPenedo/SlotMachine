@@ -1,0 +1,10 @@
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Form1.resources
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+C:\Users\Rodrigo\Documents\GitHub\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
